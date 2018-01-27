@@ -796,7 +796,7 @@ body .sticky-wrapper, body .sticky-wrapper.is-sticky {
     display: block; }
   .collapse.show {
     overflow-y: auto;
-    height: 280px; }
+    height: 140px; }
   .navbar-brand > img {
     position: relative;
     top: 0;
@@ -1125,7 +1125,7 @@ Page breadcrumb
 */
 .page-breadcrumb {
   padding: 250px 0 150px;
-  background: url(../images/bg5.jpg) no-repeat;
+  background: url(../images/combine_dish_small.jpg) no-repeat;
   background-attachment: fixed;
   background-size: contain;
   background-repeat: no-repeat;
